@@ -1,4 +1,5 @@
 # New Project
 
-This project was created from local system
-Created by Ashmitha Sunil
+This project was created from local system.
+Created by Ashmitha Sunil.
+Durning the learning phase.
